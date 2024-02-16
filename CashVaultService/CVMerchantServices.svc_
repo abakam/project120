@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="CashVaultService.CVSoapRestService" CodeBehind="CVMerchantServices.svc.cs" %>

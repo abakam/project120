@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33801.198
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cashvault.CashvaultCore", "CashvaultCore\Cashvault.CashvaultCore.csproj", "{3C6C89EA-BB0D-4F60-A070-B35E4DB42419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashVaultService", "CashVaultService\CashVaultService.csproj", "{A80988F6-ED60-441D-85A1-A0751C6E463A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Uat|Any CPU = Uat|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C6C89EA-BB0D-4F60-A070-B35E4DB42419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6C89EA-BB0D-4F60-A070-B35E4DB42419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6C89EA-BB0D-4F60-A070-B35E4DB42419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6C89EA-BB0D-4F60-A070-B35E4DB42419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C6C89EA-BB0D-4F60-A070-B35E4DB42419}.Uat|Any CPU.ActiveCfg = Uat|Any CPU
+		{3C6C89EA-BB0D-4F60-A070-B35E4DB42419}.Uat|Any CPU.Build.0 = Uat|Any CPU
+		{A80988F6-ED60-441D-85A1-A0751C6E463A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80988F6-ED60-441D-85A1-A0751C6E463A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80988F6-ED60-441D-85A1-A0751C6E463A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80988F6-ED60-441D-85A1-A0751C6E463A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A80988F6-ED60-441D-85A1-A0751C6E463A}.Uat|Any CPU.ActiveCfg = Uat|Any CPU
+		{A80988F6-ED60-441D-85A1-A0751C6E463A}.Uat|Any CPU.Build.0 = Uat|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F72D056D-A970-4EAC-BFBC-9DE42E0E4EA4}
+	EndGlobalSection
+EndGlobal

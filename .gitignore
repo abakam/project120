@@ -1,0 +1,10 @@
+.vs/
+bin/
+obj/
+PublishProfiles/
+/CashvaultCore/cvdbDataSet.Designer.cs
+/CashvaultCore/cvdbDataSet.xsc
+/CashvaultCore/cvdbDataSet.xsd
+/CashvaultCore/cvdbDataSet.xss
+/CashvaultCore/Data/CashVault.edmx.sql
+/CashvaultCore/Data
